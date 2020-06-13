@@ -55,8 +55,11 @@ Then select and open ```madlib.py```
 ## Collaborations and Attributions
 Merry Cimakasky helped with troubleshooting file import issues.
 The Real Python site helped with [formatted string output](https://realpython.com/python-formatted-output/ ) and [formatted string literal output](https://realpython.com/python-formatted-output/#the-python-formatted-string-literal-f-string).
+Iris Leal suggested try/except error handling.
 
 
+
+Submission PR: https://github.com/vorSherer/madlib-cli/pull/1
 
 <!-- ------------------------------
 For more information on Markdown: https://www.markdownguide.org/cheat-sheet -->
